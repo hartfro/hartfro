@@ -1,4 +1,7 @@
-### Hey! :) 
+### Hello!
+- 👾 I'm a Software -> Cybersecurity Engineering Student
+- 👀 I'm passionate about creating a safe and secure digital environment.
+- 🐞 Pronouns: they/them
 
 <!--
 **hartfro/hartfro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

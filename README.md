@@ -1,5 +1,5 @@
 ### Hello!
-- 👾 I'm Cybersecurity Engineering Student.
+- 👾 I'm a Cybersecurity Engineering Student.
 - 👀 I'm passionate about creating a safe and secure digital environment.
 - 🐞 Pronouns: they/them.
 
